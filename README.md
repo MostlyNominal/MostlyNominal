@@ -1,16 +1,19 @@
-## Hi there 👋
+# Mostly Nominal
 
-<!--
-**MostlyNominal/MostlyNominal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Where failed assumptions become working systems.**
 
-Here are some ideas to get you started:
+Things rarely go exactly as planned.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sometimes the diffusion distance is wrong.  
+Sometimes the model converges for the wrong reason.  
+Sometimes the furnace runs hotter than expected.  
+
+That is not failure.  
+That is where the work begins.
+
+---
+
+## Currently drifting
+
+### Nominal Drift
+From diffusion to discovery.
